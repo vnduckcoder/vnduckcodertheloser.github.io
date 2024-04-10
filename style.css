@@ -236,3 +236,8 @@ body {
         transform: translateX(0);
     }
 }*/
+.player {
+    align: center;
+    aspect-ratio: 16/9;
+    width: 100%;
+}
